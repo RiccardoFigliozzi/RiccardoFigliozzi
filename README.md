@@ -23,13 +23,13 @@
 ---
 
 ### :man_technologist: About Me :
-  I am a Data Scientist from Italy.
+  I am a Data Cruncher from Italy.
   
-- :telescope: I’m working as Data Analyst to help solving business problems.
+- I’m working as Data Analyst to help solving business problems.
 
-- :zap: In my free time, I work on some personal projects, boxing and reading (sometime simultaneously).
+- In my free time, I work on some personal projects, boxing and reading (sometime simultaneously).
 
-- :mailbox: How to reach me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-RF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-figliozzi-a717ba203/)
+- How to reach me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-RF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-figliozzi-a717ba203/)
   
 ---
 

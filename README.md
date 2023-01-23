@@ -1,7 +1,7 @@
 # Riccardo Figliozzi
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy-downsized-large.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">

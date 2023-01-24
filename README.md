@@ -1,7 +1,7 @@
 # Riccardo Figliozzi
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy-downsized-large.gif" width="200"/>
+  <img src="https://media.giphy.com/media/PzY2K7SaqIEyA/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -40,8 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" title="Tensorflow" alt="Tendorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/LogoBlack.png" title="Power BI" alt="Power BI " width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/Q/qlik-logo-D1F8276F79-seeklogo.com.png"  title="Qlik" alt="Qlik" width="100" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI " width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/Q/qlik-logo-D1F8276F79-seeklogo.com.png"  title="Qlik" alt="Qlik" width="130" height="40"/>&nbsp;
   <img src="https://commons.bmstu.wiki/images/thumb/f/f3/Apache_Spark_logo.svg/388px-Apache_Spark_logo.svg.png" title="Spark" alt="Spark" width="70" height="40"/>&nbsp;
 </div>
  
@@ -50,8 +50,8 @@
 ### :earth_africa: Languages :
   
 - :it: Mother tongue
-- :uk: Advanced
-- :es: Advanced
+- 🇬🇧 Advanced
+- 🇪🇸 Advanced
 - :fr: Advanced
   
 ---

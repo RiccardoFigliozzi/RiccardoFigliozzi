@@ -24,13 +24,13 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RiccardoFigliozzi&theme=vue-dark&size_weight=0.4&count_weight=0.6"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RiccardoFigliozzi&theme=outrun&size_weight=0.4&count_weight=0.6"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RiccardoFigliozzi&size_weight=0.4&count_weight=0.6&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RiccardoFigliozzi&size_weight=0.4&count_weight=0.6&theme=outrun"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiccardoFigliozzi&size_weight=0.4&count_weight=0.6&theme=vue" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiccardoFigliozzi&size_weight=0.4&count_weight=0.6&theme=outrun" />
 </picture>
   

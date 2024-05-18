@@ -6,7 +6,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-  I am a Software AI Developer from Italy.
+  I am an AI Engineer from Italy.
 
 - 🌱 I’m currently increasing my software development skills (BE, FE, ML).
 - 📫 How to reach me: riccardo.figliozzi@gmail.com and :point_right: [![Linkedin Badge](https://img.shields.io/badge/-RF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-figliozzi-a717ba203/)

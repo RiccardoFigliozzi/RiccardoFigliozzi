@@ -6,9 +6,8 @@
 </h1>
 
 ### :man_technologist: About Me :
-  I am an Marketing Strategist and AI specialist from Italy.
+  I am an AI Automation specialist from Italy.
 
-- 🌱 I’m currently mixing my analytical skills with marketing as a freelancer.
 - 📫 How to reach me: riccardo.figliozzi@gmail.com and :point_right: [![Linkedin Badge](https://img.shields.io/badge/-RF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-figliozzi-a717ba203/)
 
 ---
